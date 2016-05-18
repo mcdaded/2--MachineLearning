@@ -1,0 +1,28 @@
+﻿kaggle data
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Kaggle/Expedia/.ipynb_checkpoints/expedia-checkpoint.ipynb
+#	new file:   Kaggle/Expedia/destinations.csv
+#	new file:   Kaggle/Expedia/expedia.ipynb
+#	new file:   Kaggle/Expedia/sample_submission.csv
+#	new file:   Kaggle/Expedia/test.csv
+#
+# Changes not staged for commit:
+#	modified:   Kaggle/Titanic/.ipynb_checkpoints/Titanic_2016-01-27-checkpoint.ipynb
+#	modified:   Kaggle/Titanic/Titanic_2016-01-27.ipynb
+#
+# Untracked files:
+#	Kaggle/Expedia/train.csv
+#	Kaggle/Santander/
+#	Kaggle/Titanic/.ipynb_checkpoints/Intro Data Scinece-checkpoint.ipynb
+#	Kaggle/Titanic/.ipynb_checkpoints/Titanic_2016-03-06-checkpoint.ipynb
+#	Kaggle/Titanic/Intro Data Scinece.ipynb
+#	Kaggle/Titanic/Stupid_Fake_Model.csv
+#	Kaggle/Titanic/Titanic_2016-03-06.ipynb
+#	Kaggle/working samples/
+#
+
