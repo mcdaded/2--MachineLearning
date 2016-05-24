@@ -1,0 +1,12 @@
+Untitled*.asciidoc
+Draft*.asciidoc
+.Untitled*.ipynb
+Draft*.ipynb
+.ipynb_checkpoints
+*.pyc
+sentiment140
+*.swp
+*_files
+cache
+data/aclImdb
+data/aclImdb_v1.tar.gz

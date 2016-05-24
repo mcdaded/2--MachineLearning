@@ -1,0 +1,12 @@
+install R notebook
+conda install -c r r-essentials
+# comes preinstalled with lots of packages
+
+install Python3 kernel using "ipython3 kernelspec install-self"
+
+update anaconda3 python file to python3
+
+python3 -m conda install <>
+python3 -m pip install <>
+
+# might also just be able to create a new anaconda environment with python 3 and update the kernelspec to reference that

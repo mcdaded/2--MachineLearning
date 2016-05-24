@@ -1,0 +1,6 @@
+install Python3 kernel using "ipython3 kernelspec install-self"
+
+update anaconda3 python file to python3
+
+python3 -m conda install <>
+python3 -m pip install <>
